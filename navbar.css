@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Young Serif', serif;
+}
+
+
+/* .h1{
+    width: 100%;
+    height: 1000px;
+} */
+
+.aptech{
+    
+    height: 600px;
+
+    width: 100%;
+
+}
+
+.ddc{
+   
+   height: 400px;
+   margin-left: 850px;
+   margin-top: -270px;
+   
+     
+    
+}
+
+.dde{
+    text-align: center;
+    
+}
+
+#pic1{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
